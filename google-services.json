@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791625740445",
+    "project_id": "onroad-ad3a2",
+    "storage_bucket": "onroad-ad3a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791625740445:android:c5f4d2227768f54fb0e474",
+        "android_client_info": {
+          "package_name": "com.paperman.ora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791625740445-ta1qpdrev5aa2vl5eih006ti47f9pq3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcEsBV1GC-6Lo36sOe-w31LL_1nV4C1F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791625740445-ta1qpdrev5aa2vl5eih006ti47f9pq3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
